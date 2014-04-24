@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, HelloWorld!</string>
+    <string name="app_name">Cave Hunter</string>
+    <string-array name="controloptions">
+        <item >Motion control</item>
+        <item >On-screen control</item>
+    </string-array>
+    <string-array name="controloptionvalues">
+        <item >accelerometer</item>
+        <item >joystick</item>
+    </string-array>
+    <string name="controloptiondefault">accelerometer</string>
+</resources>
